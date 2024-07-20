@@ -1,0 +1,18 @@
+x := 3;
+y := 4;
+read(x);
+z1 := x + y;
+write( x, y, z1,x*y/2-23 );
+
+""!@#$%^&={}|<>?._*()+-,'[]\
+
+1024xyz := 1024;
+
+_11235 = 13610;
+
+_powerset : = 2^n;
+
+_MEALY_and_MOORE_ := Q, q0, Sigma, O, Delta, Lamda;
+
+m_1 := (y2_ - y_1) / (_x2 - x1);
+
